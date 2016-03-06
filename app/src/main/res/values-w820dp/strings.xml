@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="overview">Overview</string>
+    <string name="voteavg">VoteAvg</string>
+    <string name="popularity">popularity</string>
+    <string name="reldate">relDate</string>
+    <string name="orgtitle">orgTitle</string>
+    <string name="title">title</string>
+    <string name="movieposter">moviePoster</string>
+</resources>
